@@ -1,0 +1,41 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(20, 97, 20);
+    font-weight: bolder;
+}
+
+.text-center {
+    text-align: center;
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.newcard-btn {
+    margin-top: 5px;
+    cursor: pointer;
+}
+    
+
+h1 {
+    color: goldenrod;
+}
+
+.text-white{
+    color: white;
+}
+
+.player {
+    color: white;
+}
