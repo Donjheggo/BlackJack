@@ -2,10 +2,10 @@
 let isAlive = false
 let hasWon = false
 
-let messageEl = document.getElementById("message-el")
-let cardsEl = document.getElementById("cards-el")
-let sumEl = document.getElementById("sum-el")
-let playerEl = document.getElementById("player-el")
+const messageEl = document.getElementById("message-el")
+const cardsEl = document.getElementById("cards-el")
+const sumEl = document.getElementById("sum-el")
+const playerEl = document.getElementById("player-el")
 
 let message = ""
 let cards = []
